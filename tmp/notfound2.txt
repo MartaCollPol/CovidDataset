@@ -1,0 +1,216 @@
+Abyei
+Afghanistan
+Aksai Chin
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Armenia
+Aruba
+Arunachal Pradesh
+Australia
+Azerbaijan
+Bahrain
+Baker Island
+Bangladesh
+Barbados
+Belarus
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+China
+Christmas Islands
+Clipperton Island
+Cocos Islands
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Cuba
+Curaçao
+Czech Republic
+Demchok
+Democratic Republic of the Congo
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+eSwatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Federated States of Micronesia
+Fiji
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Georgia
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guantanamo Bay Naval Base
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Howland Island
+India
+Indonesia
+Iran
+Iraq
+Isle of Man
+Israel
+Ivory Coast
+Jamaica
+Jarvis Island
+Jersey
+Johnston Atoll
+Jordan
+Kazakhstan
+Kenya
+Kingman Reef
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Lebanon
+Lesotho
+Liberia
+Libya
+Macau
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Midway Island
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Navassa Island
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Mariana Islands
+Oman
+Pakistan
+Palau
+Palestine
+Palmyra Atoll
+Panama
+Papua New Guinea
+Paraguay
+Philippines
+Pitcairn Islands
+Puerto Rico
+Qatar
+Republic of Macedonia
+Republic of the Congo
+Russia
+Rwanda
+Saba
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Saint-Barthélemy
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Eustatius
+Sint Maarten
+Solomon Islands
+Somalia
+South Georgia and the South Sandwich Islands
+South Sudan
+Sri Lanka
+Sudan
+Suriname
+Syria
+Tajikistan
+Tanzania
+Thailand
+The Bahamas
+The Gambia
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+United Arab Emirates
+United Kingdom
+United Nations Buffer Zone in Cyprus
+United States Virgin Islands
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wake Island
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
